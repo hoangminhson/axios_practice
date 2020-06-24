@@ -18,7 +18,11 @@ DELETE "/:id" : delete user
 --Data example
 
 {
+
   name: 'admin',
+  
   dob: '24/06/2020',
+  
   age: 0
+  
 }
