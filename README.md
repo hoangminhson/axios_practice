@@ -12,5 +12,5 @@ POST "/" : add new user
 
 PUT "/:id" : edit user
 
-DELETE ":/id" : delete user
+DELETE "/:id" : delete user
 
